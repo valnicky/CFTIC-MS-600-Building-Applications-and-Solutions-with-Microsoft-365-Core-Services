@@ -27,6 +27,9 @@ upn  	valerycreativedesign@valerycreativedesign.onmicrosoft.com
 
 
 
+client id3 : e205cd8a-73f5-48f2-b5b2-0e8788263cf3
+dir tenant 3: 8349a50d-3126-484b-8cef-aecadd00ceba
+
 
 Test User: Boqa5437
 
