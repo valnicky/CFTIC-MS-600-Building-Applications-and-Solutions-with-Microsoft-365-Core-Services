@@ -1,3 +1,33 @@
+password generated for tenant: Wuqu8281   wert123@
+testuser@contosomarketingvalery.onmicrosoft.com
+
+aplication client ID: 734ea6f9-c696-4f01-b47f-0f8edc98eefc
+directory tenant ID: 8349a50d-3126-484b-8cef-aecadd00ceba
+tenant Id : 8349a50d-3126-484b-8cef-aecadd00ceba
+
+http://schemas.microsoft.com/identity/claims/identityprovider :
+https://sts.windows.net/4849137a-bad1-4d87-a9f6-2ab4819329b9/
+
+http://schemas.microsoft.com/identity/claims/objectidentifier  :
+	f9ba4825-2550-4884-a6e3-e6615ff54ef1
+
+name:
+	valerycreativedesign@valerycreativedesign.onmicrosoft.com Rimbu
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier  :
+4BkNNOBFj7-a_ILIDo2YgeynRuT7Vqle9dRRnbMXdTI
+
+
+Application (client) ID
+:
+dbbb5692-1f27-4733-be87-bc83e8343888
+Directory (tenant) ID
+:
+8349a50d-3126-484b-8cef-aecadd00ceba
+upn  	valerycreativedesign@valerycreativedesign.onmicrosoft.com
+
+
+
+
 Test User: Boqa5437
 
 testuser@contosomarketingljtp2021.onmicrosoft.com
