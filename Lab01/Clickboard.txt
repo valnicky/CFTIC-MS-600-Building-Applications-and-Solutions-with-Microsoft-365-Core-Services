@@ -78,3 +78,7 @@ applic client id 1
 734ea6f9-c696-4f01-b47f-0f8edc98eefc
 client3
 e205cd8a-73f5-48f2-b5b2-0e8788263cf3
+
+
+applic client id :  c3581e5c-b714-4e61-a293-5913c0a206e2
+http://localhost:30662/
