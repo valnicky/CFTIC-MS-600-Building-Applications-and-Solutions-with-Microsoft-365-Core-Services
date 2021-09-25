@@ -82,3 +82,8 @@ e205cd8a-73f5-48f2-b5b2-0e8788263cf3
 
 applic client id :  c3581e5c-b714-4e61-a293-5913c0a206e2
 http://localhost:30662/
+
+hello world identity
+client id: 15c11f19-8397-4661-af11-9897b5f9c550
+dir tenant id : 8349a50d-3126-484b-8cef-aecadd00ceba
+https://login.microsoftonline.com/8349a50d-3126-484b-8cef-aecadd00ceba

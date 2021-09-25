@@ -213,3 +213,39 @@ Update solution code
 ![010519](evidenciasFotos/010519.PNG)
 
 ![010520](evidenciasFotos/010520.PNG)
+
+# Exercise 6: Creating a service to access Microsoft Graph
+
+## Task 1: Single page web application
+
+### Create a Node.js web application
+
+![010601](evidenciasFotos/010601.PNG)
+
+![010602](evidenciasFotos/010602.PNG)
+
+### Create a web page for the user to sign in and display details
+
+![010603](evidenciasFotos/010603.PNG)
+
+![010604](evidenciasFotos/010604.PNG)
+
+## Task 2: Register a new application
+
+![010605](evidenciasFotos/010605.PNG)
+
+![010606](evidenciasFotos/010606.PNG)
+
+![010607](evidenciasFotos/010607.PNG)
+
+## Task 3: Update the web page with the Azure AD application details
+
+![010608](evidenciasFotos/010608.PNG)
+
+## Task 4: Test the web application
+
+![010609](evidenciasFotos/010609.PNG)
+
+![010610](evidenciasFotos/010610.PNG)
+
+![010611](evidenciasFotos/010611.PNG)
