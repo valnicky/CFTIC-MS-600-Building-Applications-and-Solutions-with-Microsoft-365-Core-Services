@@ -62,4 +62,42 @@
 
 # Exercise 2: Retrieve and control information returned from Microsoft Graph
 
-![020122](evidenciasFotos/020122.PNG)
+## Task 1: Create an Azure AD application
+
+![020201](evidenciasFotos/020201.PNG)
+
+![020202](evidenciasFotos/020202.PNG)
+
+![020203](evidenciasFotos/020203.PNG)
+
+![020204](evidenciasFotos/020204.PNG)
+
+![020205](evidenciasFotos/020205.PNG)
+
+![020206](evidenciasFotos/020206.PNG)
+
+![020207](evidenciasFotos/020207.PNG)
+
+![020208](evidenciasFotos/020208.PNG)
+
+## Task 2: Create .NET Core console application
+
+![020209](evidenciasFotos/020209.PNG)
+
+## Task 3: Update the console app to support Azure AD authentication
+
+![020210](evidenciasFotos/020210.PNG)
+
+## Task 4: Create helper classes
+
+![020211](evidenciasFotos/020211.PNG)
+
+![020212](evidenciasFotos/020212.PNG)
+
+## Task 5: Incorporate Microsoft Graph into the console app
+
+![020213](evidenciasFotos/020213.PNG)
+
+## Task 6: Build and test the application
+
+![020214](evidenciasFotos/020214.PNG)

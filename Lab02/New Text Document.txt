@@ -1,0 +1,7 @@
+
+graph console app
+client id: 173a6289-4f35-4a5d-b2ce-72ea3289942a
+tenant id: 8349a50d-3126-484b-8cef-aecadd00ceba
+
+value secret: j8L7Q~Tj3eyl6LTzAedPK3afQkFIb8Dp0BQDV
+id secret fd559bd8-ede2-4336-9632-28cd9276f05b
