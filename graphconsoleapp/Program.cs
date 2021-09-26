@@ -4,13 +4,14 @@ using Microsoft.Identity.Client;
 using Microsoft.Graph;
 using Microsoft.Extensions.Configuration;
 using Helpers;
-private static GraphServiceClient _graphClient;
+
 
 
 
 {
     class Program
     {
+        private static GraphServiceClient _graphClient;
         namespace graphconsoleapp
         static void Main(string[] args)
         {

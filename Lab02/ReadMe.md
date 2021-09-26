@@ -88,16 +88,20 @@
 
 ![020210](evidenciasFotos/020210.PNG)
 
-## Task 4: Create helper classes
-
 ![020211](evidenciasFotos/020211.PNG)
+
+## Task 4: Create helper classes
 
 ![020212](evidenciasFotos/020212.PNG)
 
+![020213](evidenciasFotos/020213.PNG)
+
 ## Task 5: Incorporate Microsoft Graph into the console app
 
-![020213](evidenciasFotos/020213.PNG)
+![020214](evidenciasFotos/020214.PNG)
 
 ## Task 6: Build and test the application
 
-![020214](evidenciasFotos/020214.PNG)
+![020215](evidenciasFotos/020215.PNG)
+
+## Task 7: Edit the application to optimize the query
