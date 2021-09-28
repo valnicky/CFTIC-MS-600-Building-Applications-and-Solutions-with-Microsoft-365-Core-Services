@@ -1,7 +1,11 @@
 
-graph console app
-client id: 173a6289-4f35-4a5d-b2ce-72ea3289942a
-tenant id: 8349a50d-3126-484b-8cef-aecadd00ceba
+graph console app 
+client id: f5ffe764-e452-4f06-bbd1-758727a4cde1
+tenant id: 4849137a-bad1-4d87-a9f6-2ab4819329b9
 
-value secret: j8L7Q~Tj3eyl6LTzAedPK3afQkFIb8Dp0BQDV
-id secret fd559bd8-ede2-4336-9632-28cd9276f05b
+value secret: QJC7Q~chGS8iB48UNCAGdxIHHKTdlpL8SJE9e
+id secret 05befbe6-b459-4a10-9c59-eb7ef44e9ce7
+
+redirect uri: https://localhost:8282
+
+

@@ -80,28 +80,52 @@
 
 ![020208](evidenciasFotos/020208.PNG)
 
-## Task 2: Create .NET Core console application
-
 ![020209](evidenciasFotos/020209.PNG)
 
-## Task 3: Update the console app to support Azure AD authentication
+## Task 2: Create .NET Core console application
 
 ![020210](evidenciasFotos/020210.PNG)
 
 ![020211](evidenciasFotos/020211.PNG)
 
-## Task 4: Create helper classes
-
 ![020212](evidenciasFotos/020212.PNG)
+
+## Task 3: Update the console app to support Azure AD authentication
 
 ![020213](evidenciasFotos/020213.PNG)
 
-## Task 5: Incorporate Microsoft Graph into the console app
+## Task 4: Create helper classes
 
 ![020214](evidenciasFotos/020214.PNG)
 
-## Task 6: Build and test the application
-
 ![020215](evidenciasFotos/020215.PNG)
 
+## Task 5: Incorporate Microsoft Graph into the console app
+
+![020216](evidenciasFotos/020216.PNG)
+
+![020217](evidenciasFotos/020217.PNG)
+
+![020218](evidenciasFotos/020218.PNG)
+
+![020219](evidenciasFotos/020219.PNG)
+
+## Task 6: Build and test the application
+
+![020220](evidenciasFotos/020220.PNG)
+
 ## Task 7: Edit the application to optimize the query
+
+![020221](evidenciasFotos/020221.PNG)
+
+![020222](evidenciasFotos/020222.PNG)
+
+![020223](evidenciasFotos/020223.PNG)
+
+![020224](evidenciasFotos/020224.PNG)
+
+![020225](evidenciasFotos/020225.PNG)
+
+![020226](evidenciasFotos/020226.PNG)
+
+![020227](evidenciasFotos/020227.PNG)
