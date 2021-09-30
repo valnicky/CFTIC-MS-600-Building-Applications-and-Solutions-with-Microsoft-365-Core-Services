@@ -129,3 +129,47 @@
 ![020226](evidenciasFotos/020226.PNG)
 
 ![020227](evidenciasFotos/020227.PNG)
+
+# Exercise 3: Using change notifications and track changes with Microsoft Graph
+
+## Task 1: Create a new Azure AD web application
+
+![020301](evidenciasFotos/020301.PNG)
+
+![020302](evidenciasFotos/020302.PNG)
+
+![020303](evidenciasFotos/020303.PNG)
+
+![020304](evidenciasFotos/020304.PNG)
+
+![020305](evidenciasFotos/020305.PNG)
+
+## Task 2: Create .NET Core App
+
+![020306](evidenciasFotos/020306.PNG)
+
+### Create .NET Core WebApi App
+
+![020307](evidenciasFotos/020307.PNG)
+
+![020308](evidenciasFotos/020308.PNG)
+
+## Task 3: Code the HTTP API
+
+### Add model classes
+
+![020309](evidenciasFotos/020309.PNG)
+
+![020310](evidenciasFotos/020310.PNG)
+
+![020311](evidenciasFotos/020311.PNG)
+
+![020312](evidenciasFotos/020312.PNG)
+
+![020313](evidenciasFotos/020313.PNG)
+
+### Add notification controller
+
+![020314](evidenciasFotos/020314.PNG)
+
+## Task 4: Run the application
