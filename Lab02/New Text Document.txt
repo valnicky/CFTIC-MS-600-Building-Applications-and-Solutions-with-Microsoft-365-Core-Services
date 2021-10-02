@@ -15,13 +15,27 @@ QHBFRX3ZH22JG633JW
 
 Graph Notification Tutorial
 Application (client) ID
-a68a47bf-d8e6-4511-9191-6bd4d05630f8
+b28fa085-b14d-4b4f-86f3-3fb5c56e56ba
 
 Directory (tenant) ID
 4849137a-bad1-4d87-a9f6-2ab4819329b9
 
 secret value
-eo37Q~9Rvi~4XK3ZwtsjIBp~HSXQFCxRibqbW
+oNY7Q~vpJ6lGtAaXHNLkrd_576WpGx0qvFTdg
+
+id secret 131bdc00-c3cd-4f39-878d-d7db90b0ff56
+
+https://a96f-37-134-228-153.ngrok.io  -> http://localhost:5000
 
 
-https://95bc-37-134-228-153.ngrok.io  -> http://localhost:5000
+
+ej5 Graph Console Throttle App
+Application (client) ID
+41fea480-2c82-41cd-ab9d-ab707e4d060f
+
+
+Directory (tenant) ID
+4849137a-bad1-4d87-a9f6-2ab4819329b9
+
+AdeleV@valerycreativedesign.onmicrosoft.com
+Rawa2365

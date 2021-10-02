@@ -173,3 +173,121 @@
 ![020314](evidenciasFotos/020314.PNG)
 
 ## Task 4: Run the application
+
+![020315](evidenciasFotos/020315.PNG)
+
+
+
+*****
+
+****
+***
+***
+***
+***
+***********************************************************
+
+# Exercise 4: Reduce traffic with batched requests
+
+## Task 1: Sign in to Microsoft Graph Explorer
+
+
+![020401](evidenciasFotos/020401.PNG)
+
+
+## Task 2: Submit three (3) GET requests in a single batch
+
+![020402](evidenciasFotos/020402.PNG)
+
+
+## Task 3: Combine POST and GET requests in a single batch request
+
+![020403](evidenciasFotos/020403.PNG)
+
+
+
+# Exercise 5: Understand throttling in Microsoft Graph
+
+## Task 1: Create an Azure AD application
+
+![020501](evidenciasFotos/020501.PNG)
+
+![020502](evidenciasFotos/020502.PNG)
+
+![020503](evidenciasFotos/020503.PNG)
+
+## Task 2: Grant Azure AD application permissions to Microsoft Graph
+
+![020504](evidenciasFotos/020504.PNG)
+
+![020505](evidenciasFotos/020505.PNG)
+
+## Task 3: Create .NET Core console application
+
+![020506](evidenciasFotos/020506.PNG)
+
+## Task 4: Update the console app to support Azure AD authentication
+
+
+![020507](evidenciasFotos/020507.PNG)
+
+## Task 5: Create authentication helper classes
+
+![020508](evidenciasFotos/020508.PNG)
+
+## Task 6: Incorporate Microsoft Graph into the console app
+
+![020509](evidenciasFotos/020509.PNG)
+
+![020510](evidenciasFotos/020510.PNG)
+
+![020511](evidenciasFotos/020511.PNG)
+
+![020512](evidenciasFotos/020512.PNG)
+
+## Task 7: Build and test the application
+
+![020513](evidenciasFotos/020513.PNG)
+
+Add helper class to deserialize the message object returned in a REST request
+Add method to implement delayed retry strategy when requests are throttled
+
+![020514](evidenciasFotos/020514.PNG)
+
+Update application to use retry strategy
+
+![020515](evidenciasFotos/020515.PNG)
+
+
+
+
+## Task 8: Implement Microsoft Graph SDK for throttling retry strategy
+
+Update the GetAuthenticatedHttpClient method
+
+Update the GetMessageDetail method to return
+
+
+## Task 9: Build and test the updated application
+
+
+![020516](evidenciasFotos/020516.PNG)
+
+
+# Exercise 6: Querying user data from Microsoft Graph
+
+## Task 1: Go to the Graph Explorer
+
+## Task 2: Get the signed in user's profile
+
+![020601](evidenciasFotos/020601.PNG)
+
+## Task 3: Get a list of users in the organization
+
+
+![020602](evidenciasFotos/020602.PNG)
+
+## Task 4: Get the user object based on the user’s unique identifier
+
+
+![020603](evidenciasFotos/020603.PNG)
