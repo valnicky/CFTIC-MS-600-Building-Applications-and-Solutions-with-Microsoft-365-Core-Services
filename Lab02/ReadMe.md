@@ -291,3 +291,13 @@ Update the GetMessageDetail method to return
 
 
 ![020603](evidenciasFotos/020603.PNG)
+
+## Task 5: Get the user's profile photo
+
+![020603](evidenciasFotos/020603.PNG)
+
+![020604](evidenciasFotos/020604.PNG)
+
+## Task 6: Get the user's manager profile
+
+![020605](evidenciasFotos/020605.PNG)
