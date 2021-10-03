@@ -23,3 +23,28 @@
 ## Task 1: Code the Excel task pane add-in solution
 
 ![050201](evidenciasFotos/050201.PNG)
+
+![050202](evidenciasFotos/050202.PNG)
+
+![050203](evidenciasFotos/050203.PNG)
+
+Filter and sort a table
+
+![050204](evidenciasFotos/050204.PNG)
+
+![050205](evidenciasFotos/050205.PNG)
+
+![050206](evidenciasFotos/050206.PNG)
+
+
+Create a chart
+
+![050207](evidenciasFotos/050207.PNG)
+
+![050208](evidenciasFotos/050208.PNG)
+# Exercise 3: Understanding customization of add-ins
+
+## Task 1: Insert Excel charts using Microsoft Graph in a PowerPoint add-in
+
+
+![050301](evidenciasFotos/050301.PNG)
