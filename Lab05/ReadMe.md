@@ -12,6 +12,12 @@
 
 ![050104](evidenciasFotos/050104.PNG)
 
+![050105](evidenciasFotos/050105.PNG)
+
+![050106](evidenciasFotos/050106.PNG)
+
+![050107](evidenciasFotos/050107.PNG)
+
 # Exercise 2: Understanding Office JavaScript APIs
 
 ## Task 1: Code the Excel task pane add-in solution
