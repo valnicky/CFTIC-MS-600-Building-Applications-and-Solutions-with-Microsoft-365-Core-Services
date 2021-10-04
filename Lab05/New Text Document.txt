@@ -1,0 +1,15 @@
+direccion url de ssl
+https://localhost:44301/AzureADAuth/Authorize
+
+
+Application (client) ID
+:
+f08add23-1e3c-4f90-8d12-3823de1af97d
+
+
+Directory (tenant) ID
+:
+4849137a-bad1-4d87-a9f6-2ab4819329b9
+
+value secret OSD7Q~6zR9Mw.xraI91tD6YFS6_-crqpGI4I5
+secret id 937e21d6-474a-4d01-95f0-8f9613652fd0

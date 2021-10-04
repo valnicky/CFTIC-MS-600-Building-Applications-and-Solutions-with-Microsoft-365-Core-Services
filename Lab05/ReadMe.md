@@ -44,7 +44,30 @@ Create a chart
 ![050208](evidenciasFotos/050208.PNG)
 # Exercise 3: Understanding customization of add-ins
 
-## Task 1: Insert Excel charts using Microsoft Graph in a PowerPoint add-in
-
-
 ![050301](evidenciasFotos/050301.PNG)
+
+
+![050302](evidenciasFotos/050302.PNG)
+
+![050303](evidenciasFotos/050303.PNG)
+
+![050304](evidenciasFotos/050304.PNG)
+
+![050305](evidenciasFotos/050305.PNG)
+
+![050306](evidenciasFotos/050306.PNG)
+
+![050307](evidenciasFotos/050307.PNG)
+
+
+# Exercise 4: Understanding actionable messages
+
+## Task 1: Modify an existing adaptive card using the Card Playground
+
+![050401](evidenciasFotos/050401.PNG)
+
+![050402](evidenciasFotos/050402.PNG)
+
+![050403](evidenciasFotos/050403.PNG)
+
+![050404](evidenciasFotos/050404.PNG)
