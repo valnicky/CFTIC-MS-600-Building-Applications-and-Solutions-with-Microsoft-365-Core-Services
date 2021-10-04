@@ -71,3 +71,29 @@ Create a chart
 ![050403](evidenciasFotos/050403.PNG)
 
 ![050404](evidenciasFotos/050404.PNG)
+
+![050405](evidenciasFotos/050405.PNG)
+
+## Task 2: Create an actionable message card from scratch
+
+![050406](evidenciasFotos/050406.PNG)
+
+![050407](evidenciasFotos/050407.PNG)
+
+![050408](evidenciasFotos/050408.PNG)
+
+Sending actionable messages via email
+
+![050409](evidenciasFotos/050409.PNG)
+
+![050410](evidenciasFotos/050410.PNG)
+
+## Task 3: Post an actionable message card to an Office 365 group
+
+Create an actionable message card
+
+![050411](evidenciasFotos/050411.PNG)
+
+![050412](evidenciasFotos/050412.PNG)
+
+![050413](evidenciasFotos/050413.PNG)
