@@ -27,3 +27,24 @@ Test the personal tab
 Implement the personal tab's user interface
 
 ![040110](evidenciasFotos/040110.PNG)
+
+![040111](evidenciasFotos/040111.PNG)
+
+Test the personal tab
+
+![040112](evidenciasFotos/040112.PNG)
+
+## Task 2: Add video player task module
+
+![040113](evidenciasFotos/040113.PNG)
+
+![040114](evidenciasFotos/040114.PNG)
+
+![040115](evidenciasFotos/040115.PNG)
+
+![040116](evidenciasFotos/040116.PNG)
+
+
+Test the video player task module
+
+![040117](evidenciasFotos/040117.PNG)
