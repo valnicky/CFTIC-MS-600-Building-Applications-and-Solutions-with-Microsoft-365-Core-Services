@@ -48,3 +48,35 @@ Test the personal tab
 Test the video player task module
 
 ![040117](evidenciasFotos/040117.PNG)
+
+![040118](evidenciasFotos/040118.PNG)
+
+************************************************************
+**********************************
+************************
+
+## Task 3: Add video selector task module
+
+Create the task module's React app web page host
+
+![040119](evidenciasFotos/040119.PNG)
+
+Register the new page
+
+![040120](evidenciasFotos/040120.PNG)
+
+Implement the React app for the selector task module
+
+![040121](evidenciasFotos/040121.PNG)
+
+
+![040122](evidenciasFotos/040122.PNG)
+
+
+Test the video selector task 
+
+# Exercise 2: Using adaptive cards and deep links in task modules
+
+## Task 1: Create video selector as an adaptive card
+
+![040201](evidenciasFotos/040201.PNG)
