@@ -80,3 +80,24 @@ Test the video selector task
 ## Task 1: Create video selector as an adaptive card
 
 ![040201](evidenciasFotos/040201.PNG)
+
+![040202](evidenciasFotos/040202.PNG)
+
+![040203](evidenciasFotos/040203.PNG)
+
+![040204](evidenciasFotos/040204.PNG)
+
+![040205](evidenciasFotos/040205.PNG)
+
+## Task 2: Create a new task module that uses the Adaptive Card
+
+![040206](evidenciasFotos/040206.PNG)
+
+![040207](evidenciasFotos/040207.PNG)
+
+![040208](evidenciasFotos/040208.PNG)
+
+
+Test the Adaptive Card task module
+
+![040209](evidenciasFotos/040209.PNG)
